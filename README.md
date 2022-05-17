@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Tkayy729
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Emmanuel Tweneboah Koduah
+- 👀 I’m interested in Web development using React and Node
+- 🌱 I’m currently learning backend operations
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me on emmmanueltweneboah71@gmail.com
 
-<!---
-Tkayy729/Tkayy729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
